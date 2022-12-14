@@ -1,5 +1,6 @@
 ###  👋 Hello.
-
+I'm Sakang Kim. 
+I’m currently learning computer engineering at Dongyang Mirae Univ.
 <!--
 **1sakang/1sakang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
